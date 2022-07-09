@@ -8,7 +8,7 @@ function Cocktail({ id, image, info, glass, name }) {
                 <h2 className="cocktail-title">{name}</h2>
                 <h4>{glass}</h4>
                 <p>{info}</p>
-                <Link className="btn" to={`/cocktail/${id}`}>
+                <Link className="btn" to={`/cocktaildb-app/cocktail/${id}`}>
                     Details
                 </Link>
             </div>
