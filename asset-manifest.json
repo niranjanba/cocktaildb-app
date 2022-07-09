@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cocktaildb-app/static/css/main.21753603.css",
+    "main.js": "/cocktaildb-app/static/js/main.359f4edc.js",
+    "index.html": "/cocktaildb-app/index.html",
+    "main.21753603.css.map": "/cocktaildb-app/static/css/main.21753603.css.map",
+    "main.359f4edc.js.map": "/cocktaildb-app/static/js/main.359f4edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21753603.css",
+    "static/js/main.359f4edc.js"
+  ]
+}
