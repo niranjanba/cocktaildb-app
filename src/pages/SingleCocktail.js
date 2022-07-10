@@ -77,7 +77,10 @@ function SingleCocktail() {
     return (
         <section className="section cocktail-section">
             <h2 className="section-title">{name}</h2>
-            <Link to={"/"} className="btn btn-primary">
+            <Link
+                to={"https://niranjanba.github.io/cocktaildb-app/"}
+                className="btn btn-primary"
+            >
                 go home
             </Link>
             <div className="drink">

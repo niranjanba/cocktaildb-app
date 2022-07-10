@@ -13,7 +13,7 @@ function Navbar() {
                             className={({ isActive }) =>
                                 isActive ? "link active" : "link"
                             }
-                            to="/"
+                            to="https://niranjanba.github.io/cocktaildb-app/"
                         >
                             Home
                         </NavLink>
@@ -23,7 +23,7 @@ function Navbar() {
                             className={({ isActive }) =>
                                 isActive ? "link active" : "link"
                             }
-                            to="/about"
+                            to="https://niranjanba.github.io/cocktaildb-app/about"
                         >
                             About
                         </NavLink>
